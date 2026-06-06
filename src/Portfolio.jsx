@@ -644,6 +644,7 @@ export default function Portfolio() {
       </div>
  
  
+ 
       {/* Fixed Hire Me — bottom center */}
       <div style={{ position:"fixed",bottom:26,left:"50%",transform:"translateX(-50%)",zIndex:50 }}>
         <button onClick={()=>window.open("https://wa.me/918610806443", "_blank")} style={hireMeBtn(true)}>✦ Hire Me</button>
